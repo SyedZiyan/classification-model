@@ -1,0 +1,11 @@
+Load Dataset
+      ↓
+Understand Features
+      ↓
+Split Train/Test Data
+      ↓
+Train Classifier
+      ↓
+Make Predictions
+      ↓
+Calculate Accuracy
